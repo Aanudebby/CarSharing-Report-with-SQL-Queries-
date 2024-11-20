@@ -1,6 +1,6 @@
 # CarSharing-Report-with-SQL-Queries-
 ## Overview
-This project includes SQL queries and documentation for analyzing a car-sharing dataset. The data shows customer demand, weather conditions, and temperature, all collected hourly from January 2017 to August 2018.
+This project includes SQL queries and documentation for analyzing a car-sharing dataset. The data shows customer demand rate, weather conditions, and temperature, all collected hourly from January 2017 to August 2018.
 ## Files
 - **SQL queries.sql** Contains SQL queries used to analyze the data set and answer specific business questions.<br>
 
